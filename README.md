@@ -25,7 +25,7 @@ root.title("Random password generator")
 
 ``` 
 
-![Screenshot (219).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652106138523/BdEidV8gg.png align="left")
+![Screenshot (219).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652106138523/BdEidV8gg.png )
 
 the root is the main window of the application
 
@@ -49,7 +49,7 @@ top.grid(row=0,column=0)
 
 ``` 
 
-![scr20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652106253161/COTW1OAhW.png align="left")
+![scr20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652106253161/COTW1OAhW.png )
 
 top(Frame):- It is the upper part of the application
 uc (Button):- It will turn on/off the Uppercase field
@@ -74,7 +74,7 @@ generate.grid(row=1,column=1)
 middle.grid(row=1,column=0,pady=5)
 ``` 
 
-![scr21.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652106546797/K2VMmhU-o.png align="left")
+![scr21.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652106546797/K2VMmhU-o.png )
 middle(Frame):- It is the lower part of the application
 password_length(Scale) :- In which user can select password length 
 password(Entry):- In which password is going to be displayed
@@ -287,12 +287,12 @@ root.mainloop()
 ``` 
 ***Strong password***
 
-![Screenshot (223).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652107283399/rfMjo6exc.png align="left")
+![Screenshot (223).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652107283399/rfMjo6exc.png )
 
 ***Weak password***
 
-![Screenshot (224).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652107315374/TezBZlue4.png align="left")
+![Screenshot (224).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652107315374/TezBZlue4.png )
 
-github code:-[click here](https://github.com/vasanthkumar7/random-password-generator)
+
 
 
